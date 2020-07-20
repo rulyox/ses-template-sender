@@ -1,0 +1,16 @@
+[
+  {
+    "recipient": "alice@email.com",
+    "replace": {
+      "name": "Alice",
+      "content": "Nice to meet you!"
+    }
+  },
+  {
+    "recipient": "bob@email.com",
+    "replace": {
+      "name": "Bob",
+      "content": "Hello World!"
+    }
+  }
+]
